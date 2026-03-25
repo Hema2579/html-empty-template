@@ -1,0 +1,42 @@
+
+:root{
+    /* Colors */
+    --color-primary:                  #32CD32;
+    --color-primarycolordark:         #228B22;
+    --color-bg:                       #ffffff;
+    --color-textcolor:                #111827;
+    --color-text-title:               #9ACD32;
+    --color-intro:                    #d1e0b8;
+
+
+    /*Typography */
+    --font-sans:"Sofia", sans-serif, "Times New Roman", Times, serif ;
+
+    --text-base:     1rem;
+    --text-xl:       1.25rem;
+    --text-sm:       0.875rem;
+    --text-xs:       0.75rem
+
+    /* spacing scale */
+    --space-1:    0.25rem;
+    --space-2:    0.5rem;
+    --space-3:    0.75rem;
+    --space-4:    1rem;
+
+    /* Border */
+    --radius-md:   0.5rem;
+    --radius-lg:   1rem;
+
+
+
+    /* shadow */
+
+    --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+
+
+    /* transition */
+    --transition-base: 0.2s ease;
+    --transition-slow: 0.3s ease
+
+
+}
